@@ -1,1 +1,2 @@
 # Coursera-Mathematics-for-Machine-Learning-Multivariate-Calculus
+This is the second course in the coursea online course series: "Mathematics for Machine Learning". For more information, please follow the link below: https://www.coursera.org/learn/multivariate-calculus-machine-learning?specialization=mathematics-machine-learning
